@@ -1,0 +1,9 @@
+[submodule "devops_todolist_docker_core_task_2_volumes"]
+	path = devops_todolist_docker_core_task_2_volumes
+	url = https://github.com/yaroslavyvk/devops_todolist_docker_core_task_2_volumes.git
+[submodule "devops_todolist_docker_core_task_3_docker_compose"]
+	path = devops_todolist_docker_core_task_3_docker_compose
+	url = https://github.com/yaroslavyvk/devops_todolist_docker_core_task_3_docker_compose.git
+[submodule "devops_todolist_docker_core_task_4_externalize_configs"]
+	path = devops_todolist_docker_core_task_4_externalize_configs
+	url = https://github.com/yaroslavyvk/devops_todolist_docker_core_task_4_externalize_configs.git
